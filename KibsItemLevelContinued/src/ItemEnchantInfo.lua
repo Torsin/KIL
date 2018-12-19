@@ -174,6 +174,12 @@ local db = {
 	[5966] = { 159789, 268913, nil }, --Stalwart Navigation
 	[5962] = { 159788, 268852, nil }, --Versatile Navigation
 
+	-- Engineering Ranged Weapon Enchant
+	[5955] = { 158212, 264960, nil }, --Crow's Nest Scope
+	[5958] = { 158377, 265100, nil }, --Frost-Laced Ammunition
+	[5957] = { 158203, 265097, nil }, --Incendiary Ammunition
+	[5956] = { 158327, 264964, nil }, --Monelite Scope of Alacrity
+
 	-- Trinkets
 	[265954] = { nil, 265954, nil }, --Touch of Gold
 	[271107] = { nil, 271107, nil }, --Golden Luster
