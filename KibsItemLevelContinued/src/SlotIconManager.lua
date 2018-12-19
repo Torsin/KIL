@@ -57,9 +57,7 @@ function SlotIconManager:new(adapter)
             SecondaryHandSlot = true,
         },
         slotsWithRequiredEnchants = {
-            BackSlot = true,
 			HandsSlot = true,
-			WaistSlot = true,
             Finger0Slot = true,
             Finger1Slot = true,
 			MainHandSlot = true,
